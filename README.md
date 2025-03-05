@@ -1,4 +1,4 @@
-<h3>Scripts for Spwrong written by Harry Stott</h3>
+#SPWRONG CODE
 
 <h3>Dependencies</h3>
   <ul>
