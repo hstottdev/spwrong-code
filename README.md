@@ -1,4 +1,4 @@
-<h1>SPWRONG CODE>/h1>
+<h1>SPWRONG CODE</h1>
 
 <h3>Dependencies</h3>
   <ul>
