@@ -11,10 +11,4 @@ public class SetAsHitBox : MonoBehaviour
         GetComponent<SpriteRenderer>().size = boxCollider.size;
         transform.localPosition = boxCollider.offset;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
